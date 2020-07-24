@@ -39,6 +39,7 @@ def textToGrid(path):
                 arr[i][j] = int(arr[i][j])
     return arr
 
+# Prosedur untuk mengubah png menjadi sudoku berbentuk array 2 dimensi
 def pngToGrid(path):
     tess.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
