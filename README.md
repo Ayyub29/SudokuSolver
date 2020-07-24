@@ -16,7 +16,7 @@ Anda adalah Mr. Khun, saat ini Anda tergabung bersama tim Sweet & Sour untuk men
 | 5 | Tuliskan semua koordinat dari area bernomor 5, tuliskan pada command prompt/terminal dan simpan pada file eksternal yang sama dengan spesifikasi nomor (4). Koordinat dituliskan setelah area permainan |
 | 6 | Program dapat membaca inputan dari gambar. **Program hanya perlu dapat membaca gambar spesifik yang ada pada repository**. Library yang digunakan adalah tesseract |
 | 7 | Program diletakkan pada directory src, kemudian file pengujian diletakkan pada directory test, dan hasil pengujian berupa screenshot diletakkan pada directory result | 
-| ---- | ---- |
+
 
 ## Requirements
 1. Phyton 3.8 https://www.python.org/downloads/
